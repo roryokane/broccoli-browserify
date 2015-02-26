@@ -1,7 +1,7 @@
 # brocolli-browserify
 
 Use `require('modules')` in the browser with
-[browersify](https://https://github.com/substack/node-browserify)
+[browersify](https://github.com/substack/node-browserify)
 and [broccoli](https://github.com/joliss/broccoli)
 
 ## Install
